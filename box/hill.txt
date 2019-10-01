@@ -1,0 +1,163 @@
+======T1 (Level 1-4)
+01-01 l eagle 
+02-03 2d4 baboons 
+04-06 ld6 bandits 
+07-07 ld4 vultures 
+08-08 ldlO commoners 
+09-09 l raven 
+10-10 l poisonous snake 
+11-13 2d6 bandits or 2d6 tribal warriors 
+14-14 2d8 goats 
+15-15 ld6 + 4 blood hawks
+16-16 ld4 + 3 giant weasels 
+17-18 ld3 guards with ld2 mastiffs and l mule 
+19-20 ld6 + 5 hyenas 
+21-22 2d4 stirges 
+23-25 An empty cave littered with bones 
+26-26 l pseudodragon or ld3 giant owls 
+27-27 l lion or l panther (cougar) 
+28-30 2d8 kobolds 
+31-31 l hippogriff 
+32-34 2d4 goblins 
+35-35 l worg 
+36-36 ld3 swarms of bats or ld3 swarms of ravens 
+37-37 1 giant eagle
+38-40 An old dwarf sitting on a stump, whittling a piece of wood 
+41-41 ld4 elk 
+42-42 ld4 winged kobolds with ld6 kobolds 
+43-43 ld6 + 2 giant wolf 
+45-45 2d4 wolves 
+46-46 l swarm of insects 
+47-47 ld8 + l axe beaks 
+48-49 l brown bear or ld3 boars 
+50-50 1 scout 
+51-51 l ogre 
+52-53 2d4 gnolls 
+54-54 l giant elk 
+55-55 ld3 + l harpies 
+56-56 l werewolf 
+57-58 2d4 ores 
+59-59 ld4 half-ogres 
+60-60 l druid or l veteran
+61-63 The corpse of an adventurer that carries an intact explorer's pack and lies atop a longsword 
+64-64 l green hag 
+65-66 ld3 dire wolves 
+67-68 A small cemetery containing 2d6 graves 
+69-70 l hobgoblin captain with 2d4 hobgoblins 
+71-71 2d4 giant goats 
+72-72 l manticore 
+73-74 ld6 + 2 hobgoblins 
+75-75 1 phase spider 
+76-78 A pile of droppings from a very large bird 
+79-79 1 gnoll fang of Yeenoghu 
+80-80 ld3 giant boars 
+81-81 1 gnoll pack lord with ld3 giant hyenas 
+82-82 1 bandit captain with 2d4 bandits 
+83-83 1 ore Eye of Gruumsh with ld8 + 2 orcs 
+84-84 ld3 orogs or ld4 berserkers 
+85-86 1 ettin or 1 wereboar 
+87-88 1 goblin boss with 2d6 
+89-89 ld3 griffons 
+90-90 ld3 perytons or ld4 pegasi 
+91-96 ld3 trolls 
+97-99 1 cyclops 
+00-00 1 stone giant 
+======T2 (Level 5-10)
+01-01 pegasi or 1d3 perytons
+02-02 1d6+2 giant goats
+03-03 1 manticore
+04-04 1d8+1 gnolls or 1d8+1 hobgoblins
+05-05 1d4 lions
+06-06 1d6+2 worgs
+07-07 1d4 brown bears
+08-08 3d6 axe beaks
+09-09 1 half-ogre with 2d6 orcs
+10-10 2d10 winged kobolds
+11-12 1 goblin boss with 1d4 dire spiders and 2d6 goblins
+13-13 1d6 giant elk
+14-15 1d8+1 giant eagles
+16-17 1d4 phase spiders
+18-19 1 gnoll pack lord with 2d4 giant hyenas
+20-20 2d4 hippogriffs
+21-25 A 15 ft tall stone statue of a dwarf warrior that has been tipped over on its side
+26-27 2d4 orogs
+28-29 1d4+1 griffons
+30-31 1d6+2 harpies 
+32-33 1 orc Eye of Gruumsh with 2d6+3 orcs
+34-35 1d4+3 giant boars
+36-40 A stone door set into the side of a streep hill, opening onto 15 feet of descending stairs that end at a cave-in
+41-42 1d3 green hags
+43-44 1d4 werewolves
+45-46 1d6+2 ogres
+47-48 1 hobgoblin captain with 2d8 hobgoblins
+49-50 1 bandit captain with 3d6 bandits
+51-54 1 chimera
+55-58 1d4 ettins
+59-62 1d6+2 veterans with 2d6 berserkers
+63-65 An abandoned wooden hut
+66-69 1 galeb duhr
+70-73 1 bulettes
+74-77 1 wyvern
+78-80 2d6+10 goats with 1 herder (tribal warrior)
+81-82 1d3 hill giant
+83-84 2d4 wereboars
+85-86 1d4 revenants
+87-88 1d2 gorgons
+89-90 1d8+1 gnolls fangs of Yeenoghu
+91-93 1d4 cyclopes
+94-96 1 young red dragon
+97-98 1d4 stone giants
+99-99 1d3 young copper dragons
+00-00 1 roc 
+======T3 (Level 11-16)
+01-01 2d8 manticores or 2d8 phase spiders
+02-04 ld6 green hags with ld6 wyverns
+05-07 l hobgoblin captain with l hill giant and 4dl0 hobgoblins 
+08-10 2d6 + 3 werewolves 
+11-14 ld6 + 2 ettins
+15-18 ld3 bulettes 
+19-22 ld4 werebears 
+23-24 A stream of smoke emerging from a small chimney in the hillside 
+25-28 ld4 wyverns 
+29-32 ld8 + l wereboars 
+33-36 ld3 revenants 
+37-38 A mild earthquake that shakes the region for ld20 seconds 
+39-42 ld3 chimeras 
+43-46 ld4 gorgons 
+47-50 ld6 + 2 gnoll fangs of Yeenoghu 
+51-54 ld4 hill giants 
+55-58 l young red dragon 
+59-62 ld3 + l galeb duhr 
+63-65 2dl0 dwarf miners (commoners), whistling as they march toward their mine 
+66-69 ld3 young copper dragons 
+70-73 ld4 trolls 
+74-77 ld3 cyclopes 
+78-80 ld3 nobles with ld4 scouts prospecting for gold 
+81-85 l adult copper dragon
+86-90 2d4 stone giants
+91-96 ld4 rocs
+97-99 l adult red dragon
+00-00 l ancient copper dragon 
+======T4 (Level 17-20)
+01-01 ld2 rocs
+02-05 l young red dragon
+06-10 2d6 ettins
+11-15 ld4 bulettes
+16-20 ldl0 revenants 
+21-25 The white outline of an enormous horse carved into the side of a high hill
+26-30 ld6 + l gorgons
+31-35 2d4 + l trolls 
+36-40 The scorched remains of 2dl0 humanoids littering a hillside 
+41-45 2d4 hill giants 
+46-50 ld6 + 2 werebears 
+51-55 2d4 galeb duhr 
+56-60 ld4 + 2 wyvern
+61-65 A massive boulder partly buried in the earth as if it fell or was thrown there 
+66-70 1 adult copper dragon 
+71-75 ld6 + 3 cyclopes 
+76-80 The stub of an old stone tower jutting from the top of a hill 
+81-85 2d4 stone giants
+86-90 1 adult red dragon 
+91-96 1 ancient copper dragon
+97-99 1 ancient red dragon 
+00-00 ld2 adult red dragons with ld3 young red dragons 

@@ -1,0 +1,107 @@
+======T1 (Level 1-4)
+01-01 1 Giant Owl
+02-05 1d6+3 Kobolds
+06-08 1d4+3 Trappers (Commoners)
+09-10 1 Owl
+11-12 2d4 Blood Hawks
+13-17 2d6 Bandits
+18-20 Encounter ld3 winged kobolds with ld6 kobolds 
+21-25 The partially eaten carcass of a mammoth, from which ld4 weeks of rations can be harvested
+26-29 2d8 hunters (tribal warriors)
+30-35 l half.ogre
+36-40 Single-file tracks in the snow that stop abruptly 
+41-45 ld3 ice mephits
+46-50 l brown bear
+51-53 ld6 + l orcs
+54-55 l polar bear
+56-57 ld6 scouts
+58-60 l saber-toothed tiger
+61-65 A frozen pond with a jagged hole in the ice that appears recently made
+66-68 l berserker
+69-70 l ogre
+71-72 l griffon
+73-75 l druid
+76-80 3d4 refugees (commoners) fleeing from orcs
+81-81 ld3 veterans 
+82-82 ld4 orogs 
+83-83 2 brown bears 
+84-84 l ore Eye ofGruumsh with 2d8 ores 
+85-85 ld3 winter wolves 
+86-87 ld4 yetis 
+88-88 l half-ogre 
+89-89 ld3 manticores 
+90-90 l bandit captain with 2d6 bandits 91 l revenant 
+92-93 l troll 
+94-95 l werebear 
+96-97 l young remorhaz 
+98-98 l mammoth 
+99-99 l young white dragon 
+00-00 l frost giant
+======T2 (Level 5-10)
+01-05 2 saber-toothed tigers 
+06-07 ld4 half-ogres 
+08-10 ld3 + l brown bears
+11-15 ld3 polar bears 
+16-20 2d4 berserkers 
+21-25 A half-ore druid tending to an injured polar bear.  If the characters assist the druid, she gives them a vial of antitoxin.
+26-30 2d8 scouts
+31-35 2d4 ice mephits
+36-40 2d6 + l zombies aboard a galleon trapped in the ice. Searching the ship yields 2d20 days of rations.
+41-45 l manticore
+46-50 2d6 + 3 orcs
+51-53 ld6 + 2 ogres 
+54-55 2d4 griffons
+56-57 1d4 veterans 
+58-60 1 bandit captain with 1 druid, ld3 berserkers, and 2d10 + 5 bandits
+61-65 1d4 hours of extreme cold (see chapter 5 of the Dungeon Master's Guide)
+66-68 1 young remorhaz
+69-72 1 orc Eye ofGruumsh with ld6 orogs and 2d8 + 6 orcs
+73-75 1 revenant
+76-80 A howl that echoes over the land for ld3 minutes
+81-82 ld3 mammoths
+83-84 1 young white dragon
+85-86 2d4 winter wolves
+87-88 ld6 + 2 yetis
+89-90 1d2 frost giants
+91-92 ld3 werebears
+93-94 1d4 trolls 
+95-96 1 abominable yeti
+97-98 1 remorhaz
+99-99 1 roc
+00-00 2d4 young remorhazes 
+======T3 (Level 11-16)
+01-01 1 abominable yeti 
+02-04 ld6 revenants 
+05-10 1 d4 + 1 werebears 
+11-20 ld3 young white dragons 
+21-25 A blizzard that reduces visibility to 5 feet for ld6 hours 
+26-35 1 roe 
+36-40 A herd of 3d20 + 60 caribou (deer) moving through the snow 
+41-50 ld4 mammoths 
+51-60 ld8 + 1 trolls 
+61-65 A mile-wide frozen lake in which the preserved corpses of strange creatures can be seen 
+66-75 2d4 young remorhazes 
+76-80 A crumbling ice castle littered with the frozen bod-ies of blue-skinned humanoids 
+81-90 1 adult white dragon 
+91-96 ld8 + 1 frost giants 
+97-99 ld4 remorhazes 
+00-00 1 ancient white dragon 
+======T4 (Level 17-20)
+01-02 2d10 revenants
+03-04 2d8 trolls
+05-06 2d10 werebears
+07-08 1 frost giant
+09-10 2d4 young remorhazes
+11-20 1d4 frost giants
+21-25 A circular patch of black ice on the ground. The air temperature around the patch is warmer than in the surrounding area, and characters who inspect the ice find bits of machinery frozen within.
+26-35 1 ancient white dragon 
+36-40 An adventurer frozen 6 feet under the ice; 50% chance the corpse has a rare magic item of the DM's choice
+41-50 1d3 abominable yetis
+51-60 ld4 remorhazes
+61-65 A 500-foot-high wall of ice that is 300 feet thick and spread across ld4 miles 
+66-75 ld4 rocs
+76-80 The likeness of a stern woman with long, flowing hair, carved into the side of a mountain 
+81-90 1dl0 frost giants with 2d4 polar bears
+91-96 1d3 adult white dragons
+97-99 2d4 abominable yetis 
+00-00 1 ancient white dragon with ld3 young white dragons 

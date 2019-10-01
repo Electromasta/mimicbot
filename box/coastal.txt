@@ -1,0 +1,116 @@
+======T1 (Level 1-4)
+01-01 Pseudodragon
+02-05 2d8 crabs
+06-10 2d6 fishers (commomers)
+11-11 1d3 poisonous snakes
+12-13 1d6 guards protecting a stranded noble
+14-15 2d4 scouts
+16-18 2d10 merfolk
+19-20 1d6+2 sahuagin
+21-25 1d4 ghouls feeding on corpses abord the wreckage of a merchant ship.  A search uncovers 2d6 bolts of ruined silk, a 50-foot length of rope, and a barrel of salted herring.
+26-27 1d4 winged kobolds with 1d6+1 kobolds
+28-29 2d6 tribal warriors
+30-31 3d4 kobolds
+32-33 2d4+5 blood hawks
+34-35 1d8+1 pteranodons
+36-40 A few dozen baby turtles struggling to make their way to the sea
+41-42 1d6+2 giant lizards
+43-44 1d6+4 giant crabs
+45-46 2d4 stirges
+47-48 2d6+3 bandits
+49-53 2d4 sahuagin
+54-55 1d6+2 scouts
+56-60 1 sea hag
+61-65 A momentary formation in the waves that looks like an enormous humanoid face
+66-70 l druid
+71-75 ld4 harpies
+76-80 A lone hermit (acolyte) sitting on the beach, con­templating the meaning of the multiverse 
+81-81 ld4 berserkers
+82-82 ld6 giant eagles
+83-83 2d4 giant toads
+84-84 ld4 ogres or ld4 merrow
+85-85 3d6 sahuagin
+86-86 ld4 veterans
+87-87 ld2 plesiosauruses
+88-88 l bandit captain with 2d6 bandits
+89-89 ld3 manticores
+90-90 l banshee
+91-92 ld4 + 3 griffons
+93-94 l sahuagin priestess with ld3 merrow and 2d6 sahuagin
+95-96 l sahuagin baron
+97-98 l water elemental 
+99-99 l cyclops
+00-00 l young bronze dragon 
+======T2 (Level 5-10)
+01-01 2d8 giant wolf spiders 
+02-03 3d6 pteranodons 
+04-05 2d4 scouts 
+06-07 ld6 + 2 sahuagin 
+08-08 l sea hag 
+09-10 ld4 + l giant toads 
+11-15 3d6 sahuagin 
+16-20 2d6 giant eagles 
+21-25 A pseudodragon chasing gulls through the air 
+26-29 ld2 druids 
+30-32 2d4 + 1 giant toads 
+33-35 l commoner singing a dirge (day only) or l banshee (night only)
+36-40 A stoppered bottle containing an illegible note and half buried in the sand
+41-43 3 sea hags
+44-46 ld8 + l harpies
+47-50 ld4 plesiosauruses
+51-53 ld4 manticores
+54-56 2d4 ogres 
+57-60 ldlO griffons
+61-65 A battle at sea between two galleons
+66-70 ld4 + 3 merrow
+71-75 A pirate crew consisting of l bandit captain, l druid, 2 berserkers, and 2dl2 bandits, all searching for buried treasure
+76-80 A severed humanoid hand tangled in a net
+81-82 l water elemental 
+83-84 l cyclops 
+85-86 ld4 banshees (night only) 
+87-88 2d4 veterans 
+89-90 l young bronze dragon
+91-93 ld3 cyclopes 
+94-95 l young blue dragon
+96-96 l sahuagin baron with ld3 sahuagin priestesses and 2d8 sahuagin
+97-97 l djinni
+98-98 l roc
+99-99 l marid
+00-00 l storm giant
+======T3 (Level 11-16)
+01-01 ld4 banshees (night only) 
+02-04 l cyclops
+05-08 ld6 + 2 manticores 
+09-10 ld8 + 2 veterans 
+11-20 l young blue dragon 
+21-25 A nest of ld6 dragon turtle eggs 
+26-35 ld4 sahuagin barons 
+36-40 A trident partially buried in the sand 
+41-50 l young bronze dragon 51-55 l marid 
+56-60 ld6 water elementals 
+61-65 2d6 ghasts crawling over ld6 wrecked ships and feeding on the dead 
+66-70 1 djinni 71-75 ld3 young bronze dragons 
+76-80 A beached whale, dead and bloated. If it takes any damage, it explodes, and each creature within 30 feet of it must make a DC 15 Dexterity saving throw, taking 5d6 bludgeoning damage on a failed save, or half as much damage on a successful one. 
+81-82 2d4 cyclopes 
+83-84 l storm giant
+85-86 ld3 young blue dragons 
+87-88 1 adult bronze dragon 
+89-90 1 adult blue dragon 
+91-93 ld3 rocs 
+94-97 1 dragon turtle 
+98-99 1 ancient bronze dragon 
+00-00 1 ancient blue dragon 
+======T4 (Level 17-20)
+01-10 1 roc 
+11-20 1 storm giant
+21-25 An adult bronze dragon fighting an adult blue dragon to the death
+26-40 2d6 cyclopes 
+41-50 1 adult bronze dragon or 1 adult blue dragon
+51-60 ld3 djinn or ld3 marids
+61-70 1 dragon turtle 
+71-75 ld3 rocs
+76-80 ld6 + 2 waterspouts that dance on the water before stopping abruptly
+81-90 ld6 young blue dragons
+91-96 1 ancient bronze dragon
+97-99 1 ancient blue dragon
+00-00 ld3 + 1 storm giants

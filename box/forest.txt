@@ -1,0 +1,207 @@
+======T1 (Level 1-4)
+01-01 1 giant owl 
+02-02 ld4 cats
+03-03 2d4 woodcutters (commoners) 
+04-04 1 badger or ld4 poisonous snakes
+05-05 2d8 baboons 
+06-06 ld6 + 3 hyenas
+07-07 1 owl 
+08-08 1 pseudodragon 
+09-09 1 panther 
+10-10 1 giant poisonous snake 
+11-11 ld6 + 2 boars 
+12-12 l d4 + 1 giant lizards 
+13-13 l ape or l tiger 
+14-14 2d6 tribal warriors with ld6 mastiffs 
+15-15 ld6 + 2 giant bats or 3d6 flying snakes 
+16-16 l scout or 2d4 guards with ld8 mastiffs 
+17-17 ld8 + l winged kobolds 
+18-18 ld3 constrictor snakes 
+19-19 ldlO + 5 giant rats or 2d6 + 3 giant weasels 
+20-20 ld4 + 1 needle blights with ld6 + 3 twig blights 
+21-25 A lost, weeping child. If the characters take the child home, the parents reward them with ld3 potions of healing. 
+26-26 1d8 + 1 giant frogs 
+27-27 4d4 kobolds 
+28-28 ld3 black bears 
+29-29 3d6 stirges
+30-30 1 satyr 
+31-31 2d4 kenku 
+32-32 ld3 vine blights with ld12 awakened shrubs 
+33-33 ld4 swarms of ravens
+34-34 l faerie dragon 
+35-35 ld4 + 2 giant badgers 
+36-40 A young woodcutter (scout) racing through the forest to rescue a lost friend
+41-41 2d4 blink dogs 
+42-42 1d8 + 1 sprites 
+43-43 ld6 +2 elk
+44-44 ld4 lizardfolk or 3d6 bandits 
+45-45 1 d4 + 4 wolves 
+46-46 2d4 giant wolf spiders 
+47-47 1 swarm of insects or 2d8 blood hawks 
+48-48 ld6 + 2 pixies 
+49-49 l brown bear 
+50-50 1d4 + 3 goblins 
+51-51 ld3 dryads 
+52 1 awakened tree 
+53-53 1 phase spider 
+54-54 ld6 harpies 
+55-55 l ettercap or ld8 + l orcs 
+56-56 l goblin boss with 2d6 + l goblins 
+57-57 l ankheg 
+58-58 l giant constrictor snake 
+59-59 ld4 bugbears or 2d4 hobgoblins 
+60-60 l pegasus 
+61-65 A stream of cool, clean water flowing between the trees 
+66-66 l d4 half-ogres or l ogre 
+67-67 l faerie dragon (green or older) 
+68-68 l werewolf or ld8 + l worgs 
+69-69 l druid harvesting mistletoe 
+70-70 l will-o'-wisp 
+71-71 ld4 dire wolves or l giant boar 
+72-71 ldlO giant wasps 
+73-73 l owlbear or l giant elk 
+74-74 2d6 gnolls 
+75-75 ld6 giant toads 
+76-80 ld6 web cocoons hanging from the branches, hold­ing withered carcasses 
+81-81 l wereboar or ld4 giant boars 
+82-82 ld6 + 2 giant spiders 
+83-83 ld4 centaurs or ld4 giant elk 
+84-84 l ore Eye ofGruumsh with 2d4 + 2 ores
+85-85 l gnoll fang ofYeenoghu 
+86-86 ld4 gricks 
+87-87 l bandit captain with 2d6 + 3 bandits 
+88-88 l d4 wererats 
+89-89 l couatl (day) or l banshee (night) 
+90-90 l gnoll pack lord with ld4 giant hyenas 
+91-91 2d4 berserkers or ld4 veterans 
+92-92 l lizardfofk shaman with ld3 swarms of poisonous snakes and ldlO + 2 lizardfolk 
+93-93 ld4 displacer beasts 
+94-94 ld3 green hags
+95-95 l hobgoblin captain with 2d6 hobgoblins and ld4 giant boars 
+96-96 l yuan-ti malison with ld6 + l yuan-ti purebloods 
+97-97 l d3 weretigers 
+98-98 l gorgon or l unicorn 
+99-99 l shambling mound 
+00-00 l yuan-ti abomination 
+======T2 (Level 5-10)
+01-01 2d4 vine blights 
+02-02 2d6 hobgoblins or 2d6 orcs 
+03-03 2d4 apes or 2d4 satyrs
+04-04 ld3 will-o'-wisps 
+05-05 ld4 swarms of poisonous snakes
+06-06 l orc Eye of Gruumsh with ld3 orcs and ld8 + 2 orcs
+07-07 ld3 constrictor snakes or l d4 tigers
+08-08 l goblin boss with 3d6 goblins 
+09-09 l faerie dragon (any age)
+10-10 l brown bear or ld6 + 2 black bears
+11-13 ld4 giant boars
+14-15 ld8 + l giant spiders
+16-17 l lizardfolk shaman with 2d4 lizardfolk
+18-18 ldlO giant toads
+19-19 ld4 ankhegs
+20-20 ld3 awakened trees(day) or l banshee (night)
+21-25 A small shack almost hidden by the deep forest. The interior is empty aside from a large cast-iron oven.
+26-26 l couatl
+27-28 ld4 ogres or ld6 + 2 half.ogres
+29-30 l gnoll pack lord with ld4 + l giant hyenas
+31-32 ld6 wererats 
+33-33 ld4 gricks 
+34-34 ld8 + l yuan-ti purebloods 
+35-35 ld6 pegasi
+36-40 An old stone archway of obvious elven design. Any character who passes under it makes Wisdom (Perception) checks with advantage for l hour. 
+41-42 ld6 + 2 dryads
+43-43 ld4 giant elk 
+44-44 ld8 + l harpies
+45-46 l bandit captain with l druid and ld6 + 5 bandits 
+47-48 2d4 dire wolves
+49-50 2d4 bugbears 
+51-52 2d4 centaurs 
+53-54 3dl0 blink dogs 
+55-56 ld4 owl bears 
+57-58 ld8 + l berserkers 
+59-60 ld3 green hags 
+61-65 A clear pool of water with ld6 sleeping animals lying around its edge 
+66-67 1d4 werewolves
+68-69 l werebear
+70-71 ld8 + l ettercaps
+72-73 2dl0 elk 
+74-75 ld4 veterans
+76-80 An old tree with a wizened face carved into the trunk
+81-81 ld4 wereboars 
+82-82 2d4 displacer beasts
+83-83 ld4 shambling mounds 
+84-84 l hobgoblin captain with 3dl0 hobgoblins and 4dl2 goblins
+85-85 l yuan-ti abomination
+86-86 ld8 + l phase spiders
+87-87 ld4 trolls
+88-88 2d4 yuan-ti malisons
+89-89 l oni
+90-90 ld4 unicorns
+91-91 ld6 + 2 weretigers
+92-92 l young green dragon
+93-93 ld4 gorgons
+94-94 ld6 + 2 gnoll fangs of Yeenoghu 
+95-95 l treant 
+96-96 ld4 revenants
+97-97 l grick alpha with ld6 + l gricks 
+98-98 ld4 giant apes
+99-99 l guardian naga
+00-00 l adult gold dragon 
+======T3 (Level 11-16)
+01-03 l werebear 
+04-05 ld4 druids performing a ritual for the dead (day only) or ld4 banshees (night only) 
+06-07 ld3 couatls
+08-10 ld3 gnoll fangs of Yeenoghu with 2d6 + 3 gnolls 
+11-15 2d4 displacer beasts 
+16-20 ld6 + 2 veterans 
+21-25 A pool of clear, still water. Gold coins litter the bottom, but they disappear if removed from the pool.
+26-30 ld4 + l green hags with ld3 owlbears 
+31-35 ld6 + 2 werewolves
+36-40 A small woodland shrine dedicated to a mysterious cult named the Siswa 
+41-45 ld6 + 2 phase spiders
+46-50 2d4 yuan-ti malisons
+51-52 ld3 werebears
+53-54 ld4 revenants
+55-56 l young green dragon 
+57-58 1d4 trolls 
+59-60 ld6 + 2 wereboars
+61-65 A group of seven people (commoners) wearing animal masks and ambling through the woods 
+66-67 ld4 gorgons 
+68-69 ld3 shambling mounds 
+70-71 l treant 
+72-73 ld4 unicorns
+74-75 ld6 + 2 weretigers
+76-80 Peals of silvery laughter that echo from a distance 
+81-82 l guardian naga
+83-84 l young gold dragon 
+85-86 1 grick alpha with 2d4 gricks 
+87-88 ld3 yuan-ti abominations 
+89-90 l adult green dragon 
+91-93 ld8 + l giant apes 
+94-96 2d4 oni 
+97-99 ld3 treants 
+00-00 l ancient green dragon 
+======T4 (Level 17-20)
+01-05 l young green dragon 
+06-10 l treant 
+11-13 l guardian naga 
+14-16 l dl0 revenants 
+17-19 ld8 + l unicorns 
+20-22 ld3 grick alphas 
+23-25 For a few hundred feet, wherever the characters step, Flowers bloom and emit soft light. 
+26-28 l young gold dragon 
+29-31 ld6 + 2 shambling mounds 
+32-34 2d4 werebears
+35-37 ld4 oni 
+38-40 4d6 + 10 elves living in a small community in the treetops 
+41-43 ld6 + 2 gorgons 
+44-46 2d4 trolls 
+47-49 ld4 giant apes 
+50-52 ld3 yuan-ti abominations 
+53-62 ld3 young green dragons 
+63-65 A 5O-foot-tall stone statue of an elf warrior with hand raised, palm out, as if to forbid travelers from coming this way 66-7S ld4 treants 
+76-80 A cairn set atop a low hill 
+81-90 l adult gold dragon 
+91-96 l ancient green dragon 
+97-99 2d4 + l treants 
+00-00 l ancient gold dragon
