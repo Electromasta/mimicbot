@@ -10,8 +10,9 @@ from box.table import *
 from box.reader import *
 
 client = Bot(description="Test Bot", command_prefix="PPREFIX", pm_help = True)
+discordKey = ''
 
-debug = True
+debug = False
 pattern = ("([0-9]\\d*)*[d]([0-9]\\d*)([+-]\\d+)?")
 suits = ['Heart', 'Club', 'Spade', 'Diamond']
 tables = createTables()
@@ -23,7 +24,7 @@ if (debug):
 
 @client.event
 async def on_ready():
-	print('Logged in as '+client.user.name+' (ID:'+client.user.id+') | Connected to '+str(len(client.servers))+' servers | Connected to '+str(len(set(client.get_all_members())))+' users')
+	print('Logged in as '+client.user.name+' (ID:'+str(client.user.id)+') | Connected to '+str(len(client.guilds))+' servers | Connected to '+str(len(set(client.get_all_members())))+' users')
 	print('--------')
 	print('Current Discord.py Version: {} | Current Python Version: {}'.format(discord.__version__, platform.python_version()))
 	print('--------')
@@ -39,20 +40,20 @@ async def ping(*args):
 @client.event
 async def on_message(message):
     if message.content.startswith('!roll'):
-        await client.send_message(message.channel, parseDice(message.content[6:]))
+        await message.channel.send(parseDice(message.content[6:]))
     #elif message.content.startswith('!r'):
-    #    await client.send_message(message.channel, parseDice(message.content[3:]))
+    #    await message.channel.send(parseDice(message.content[3:]))
     if message.content.startswith('!draw'):
-        await client.send_message(message.channel, drawCard())
+        await message.channel.send(drawCard())
     #elif message.content.startswith('!d'):
-    #    await client.send_message(message.channel, drawCard())
+    #    await message.channel.send(drawCard())
     if message.content.startswith('!explore'):
-        await client.send_message(message.channel, getEncounter(message.content[9:], True))
+        await message.channel.send(getEncounter(message.content[9:], True))
 
 def getEncounter(x, isRoot):
    for table in tables:
       if x.lower() in table.name.lower():
-         diceroll = random.randrange(1, 100)
+         diceroll = random.randint(1, 100)
          result = ""
          if (isRoot):
             result += table.name + " (" + str(diceroll) + "): "
@@ -99,7 +100,7 @@ def roll(x, y, z):
     total = 0;
     
     for x in range(0, x):
-        r = random.randrange(1, y)
+        r = random.randint(1, y)
         total += r
         result += str(r) + ', '
     
@@ -115,8 +116,8 @@ def roll(x, y, z):
     return result
 
 def drawCard():
-    suit = random.randrange(0, 3)
-    value = random.randrange(1, 13)
+    suit = random.randint(0, 3)
+    value = random.randint(1, 13)
 
     if value==1:
         value = 'Ace'
@@ -131,4 +132,4 @@ def drawCard():
 
     return "Drawing: [The " + value + ' of ' + suits[suit] + 's]'
 
-client.run('NDAzNjYyNjgxNjgyMzQ1OTg1.DUKmOQ.95eg0sAXaHSf_EcQTNIuMwwvtEY')
+client.run(discordKey)
