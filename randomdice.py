@@ -34,7 +34,7 @@ def roll(x, y, z):
     total = 0;
     
     for x in range(0, x):
-        r = random.randrange(1, y)
+        r = random.randint(1, y)
         total += r
         result += str(r) + ', '
 
